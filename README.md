@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm [ROHAN]</h1>
+<h1 align="center">👋 Hi, I'm ROHAN</h1>
 <p align="center">
   <b>Data Scientist · ML Engineer · Open Source Enthusiast 🚀</b>
 </p>
@@ -28,4 +28,4 @@
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/rohan-verma-78213b33b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/rohan-verma-78213b33b)]
