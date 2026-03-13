@@ -26,8 +26,7 @@
 
 ---
 
-## 🔗 Connect With Me
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](linkedin.com/in/rohan-verma-78213b33b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rohan-verma-78213b33b)
